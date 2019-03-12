@@ -1,0 +1,2 @@
+id1 hadoop,Spark,kafka
+                     id2 hdfs,Hadoop,storm
